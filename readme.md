@@ -1,0 +1,1 @@
+# RAG using Google Gemini and FAISS vector store
