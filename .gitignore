@@ -1,0 +1,7 @@
+
+.env
+*.pdf
+*.faiss
+*.pkl
+gemini.ipynb
+gemini.ipynb
