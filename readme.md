@@ -12,7 +12,7 @@ Gemini is a project that leverages Google Gemini's capabilities along with the R
 - PyTorch 1.8+
 - Transformers 4.5+
 - FAISS
-- Google Cloud Platform account
+- Gemini
 
 ## Files
 
